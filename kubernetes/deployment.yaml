@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: shopease
-          image: shopease:latest
-          imagePullPolicy: IfNotPresent
+          image: krishna249/shopease-backend:v1
+          imagePullPolicy: Always
           ports:
             - containerPort: 8081
