@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: shopease
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: shopease
+  template:
+    metadata:
+      labels:
+        app: shopease
+    spec:
+      containers:
+        - name: shopease
+          image: shopease:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8081
