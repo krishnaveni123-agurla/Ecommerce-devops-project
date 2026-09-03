@@ -183,17 +183,10 @@ Improve
 🏆 **AWS Certified Cloud Practitioner**
 
 ---
-## 📊 GitHub Stats
-
-![Krishnaveni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaveni123-agurla&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaveni123-agurla&layout=compact&theme=default)
-
----
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn:linkedin.com/in/krishnaveni-agurla-b66ab924
+* 💼 LinkedIn:https://www.linkedin.com/in/krishnaveni-agurla-b66ab924
 * 📧 Email:krishnaveni112000@gmail.com
 * 🐙 GitHub:https://github.com/krishnaveni123-agurla
 
