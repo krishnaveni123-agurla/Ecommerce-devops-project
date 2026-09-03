@@ -186,9 +186,11 @@ Improve
 
 ## 📊 GitHub Stats
 
-![Krishnaveni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaveni123-agurla\&show_icons=true\&theme=default)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaveni123-agurla\&layout=compact)
+![Krishnaveni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaveni123-agurla&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaveni123-agurla&layout=compact&theme=default)
 
 ---
 
